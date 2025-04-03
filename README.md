@@ -6,13 +6,15 @@
 
 ###
 
-<br clear="both">
-
-<h5 align="left">class Data scientist:<br>    def __init__(self):<br>        self.name = "Mohamed Abaid"<br>        self.role = "Data scientist / Ex-Civil Engineer"<br>        self.languages = ["Python", "SQL", "Power BI"]<br>        self.learning = ["Data Science", "Machine Learning", "AI"]<br>        self.goal = "Transitioning from Data Analysis to Data Science"<br>    <br>    def say_hi(self):<br>        print("Hey! I'm currently enhancing my skills in Data Science.")<br><br>me = Datascientist()<br>me.say_Hello()</h5>
+<h2 align="left"></h2>
 
 ###
 
-<h2 align="left"></h2>
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/L6vVQv32/code-blinking.gif"  />
+</div>
 
 ###
 
