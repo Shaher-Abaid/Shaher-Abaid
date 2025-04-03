@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="195" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEzaDBhejllbnl3eHZtenF5bjJvcGJnYnB6aTJ2eTR0OWpyczkxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Afyn4KMQBrsTnJYZwN/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
   <img width="19" />
@@ -38,6 +34,10 @@
 ###
 
 <br clear="both">
+
+<img align="left" height="144" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEzaDBhejllbnl3eHZtenF5bjJvcGJnYnB6aTJ2eTR0OWpyczkxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Afyn4KMQBrsTnJYZwN/giphy.gif"  />
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaher-Abaid/Shaher-Abaid/output/pacman-contribution-graph-dark.svg">
