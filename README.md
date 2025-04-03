@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
 <br clear="both">
 
 <div align="center">
