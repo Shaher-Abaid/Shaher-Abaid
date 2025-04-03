@@ -33,16 +33,8 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="144" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEzaDBhejllbnl3eHZtenF5bjJvcGJnYnB6aTJ2eTR0OWpyczkxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Afyn4KMQBrsTnJYZwN/giphy.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaher-Abaid/Shaher-Abaid/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaher-Abaid/Shaher-Abaid/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shaher-Abaid/Shaher-Abaid/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEzaDBhejllbnl3eHZtenF5bjJvcGJnYnB6aTJ2eTR0OWpyczkxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Afyn4KMQBrsTnJYZwN/giphy.gif"  />
+</div>
 
 ###
